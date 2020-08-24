@@ -2,7 +2,7 @@
 
 🐦 twitter: [@philshem](https://twitter.com/phislhem)
 
-🌐 webpage: [smalldata](https://smalldata.dev/about)
+🌐 webpage: [smalldata](https://smalldata.dev/#about)
 
 🐶 [random puppy](https://source.unsplash.com/random/?puppy)
 
