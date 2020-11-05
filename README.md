@@ -4,7 +4,10 @@
 
 🌐 webpage: [smalldata](https://smalldata.dev/#about)
 
+![https://co2birth.date Shield for 1982-01-01.](https://co2birth.date/shields/1982-01-01.svg)
+
 🐶 [random puppy](https://source.unsplash.com/random/?puppy)
+
 
 <!--
 **philshem/philshem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
