@@ -4,6 +4,8 @@
 
 🌐 webpage: [smalldata](https://smalldata.dev/#about)
 
+**[co2birth.date](https://co2birth.date)**
+
 ![https://co2birth.date Shield for 1982-01-01.](https://co2birth.date/shields/1982-01-01.svg)
 
 🐶 [random puppy](https://source.unsplash.com/random/?puppy)
