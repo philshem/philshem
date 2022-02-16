@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-🐦 twitter: [@philshem](https://twitter.com/phislhem)
-
-🌐 webpage: [smalldata](https://smalldata.dev/#about)
+🌐 webpage: [smalldata](https://smalldata.github.io/#about)
 
 **[co2birth.date](https://co2birth.date)**
 
